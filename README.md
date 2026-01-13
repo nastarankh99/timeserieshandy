@@ -3,7 +3,7 @@
 # timeserieshandy
 
 **A small R package with helper functions I often use when working with economic and financial time-series data.**
-The goal of timeserieshandy is to collect simple, reusable tools that come up again and again in applied work
+The goal of timeserieshandy is to collect simple, reusable tools that come up again and again in applied work.
 
 ## What's included: 
 lagging time series
