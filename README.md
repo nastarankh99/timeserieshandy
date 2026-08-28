@@ -14,7 +14,7 @@ basic performance and risk metrics
 ## Installation
 You can install the development version of timeserieshandy like so:
 ``` r
-# install from GitHub
+install from GitHub
 remotes::install_github("nastarankh99/timeserieshandy")
 ```
 
